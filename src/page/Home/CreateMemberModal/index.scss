@@ -1,0 +1,11 @@
+.create-member-modal {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    &__item {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}

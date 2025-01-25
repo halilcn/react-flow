@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 100%;
+
+    &__top {
+        display: flex;
+        gap: 10px;
+        margin-left: auto;
+        padding: 0 20px;
+    }
+
+    &__content {
+        height: 100%;
+    }
+}
